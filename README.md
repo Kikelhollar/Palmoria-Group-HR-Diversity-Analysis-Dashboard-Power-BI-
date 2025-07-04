@@ -1,0 +1,2 @@
+# Palmoria-Group-HR-Diversity-Analysis-Dashboard-Power-BI-
+This project presents a strategic analysis of gender-based pay disparities across departments and regions within the Palmoria Group. Built in Power BI, the dashboard offers a clear view into pay gaps, departmental imbalances, and regional equity patterns — all aimed at driving transparent, data-informed decisions to support diversity and inclusion.
