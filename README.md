@@ -23,7 +23,7 @@ This project presents a strategic analysis of gender-based pay disparities acros
 
 ## 📈 Key Observations
 
-- **National Pay Gap:** ₹2,455 difference on average — favoring men by 3.19% overall  
+- **National Pay Gap:** $2,455 difference on average — favoring men by 3.19% overall  
 - **Regional Disparity:**  
   - *Abuja* has the widest gender gap (3.39%)  
   - *Lagos* shows the narrowest gap (2.73%)  
